@@ -23,7 +23,7 @@
     "lint": "eslint . --fix --ext .ts,.tsx"
   },
   "dependencies": {
-    "gatsby": "5.9.0",
+    "gatsby": "5.9.1",
     "gatsby-plugin-image": "3.9.0",
     "gatsby-source-contentful": "8.9.1",
     "react": "18.2.0",
